@@ -1,0 +1,7 @@
+/*@ 
+    Tailwind shows an error in VSC: "Unknown at rule @tailwind".
+    Ignore this message. Everything works perfectly. It's just the Intellisense going haywire.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
