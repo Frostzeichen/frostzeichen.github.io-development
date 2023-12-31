@@ -4,7 +4,7 @@
 </script>
 
 <title>Frostzeichen is here</title>
-<body class="flex gap-10 pl-[5%] pt-1">
+<div class="flex gap-10 pl-[5%] pt-1">
     <nav class="max-w-[200px] pt-20">
         <p class="text-center text-lg font-bold pl-10 pr-10 pb-5">Navigation</p>
         <hr class="pb-5">
@@ -37,4 +37,4 @@
     <footer class="absolute bottom-0">
         <p>&copy; 2021 - {year}. All rights reserved. Oh and did I say I wrote this in <a href="https://svelte.dev/" class="text-gray-500 hover:underline">Svelte</a>? Because I did.</p>
     </footer>
-</body>
+</div>
