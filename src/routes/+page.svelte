@@ -17,7 +17,7 @@
         <hr class="pb-5">
         <p class="text-center">
             Like what you see?<br>
-            View the <a href="/" class="text-gray-500 hover:underline">source code</a>!
+            View the <a href="https://github.com/Frostzeichen/frostzeichen.github.io-development" class="text-gray-500 hover:underline">source code</a>!
         </p>
     </nav>
     <div class="grid gap-10 max-w-[60%] pl-20 pr-[10%]">
